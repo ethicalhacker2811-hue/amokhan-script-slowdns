@@ -1,0 +1,1 @@
+# amokhan-script-slowdns
